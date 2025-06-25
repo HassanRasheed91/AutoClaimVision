@@ -1,5 +1,5 @@
-# CrashCal 🚗🔧  
-AI-powered car crash image analyzer for damage detection, location classification, severity prediction and repair cost estimation.
+# AutoClaimVision  
+A Deep Learning-Based Vehicle Damage Detection System for damage detection, location classification, severity prediction and repair cost estimation.
 
 ## Highlights
 - Multi-stage deep learning pipeline to automate car damage claim triage  
